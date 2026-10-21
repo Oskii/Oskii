@@ -16,13 +16,7 @@
   <a href="https://github.com/unicity-aos/aos-ce/pulls?q=is%3Apr+author%3AOskii+is%3Amerged"><img src="./assets/unicity-dark.svg" width="49%" alt="unicity-aos/aos-ce #255 #256"></a>
   <a href="https://github.com/preferencemodel/karotte/pull/96"><img src="./assets/karotte-dark.svg" width="49%" alt="preferencemodel/karotte #96"></a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/btq-ag/btq-core/pull/99">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/btq-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/btq-light.svg">
-      <img src="./assets/btq-dark.svg" width="98%" alt="btq-ag/btq-core #99">
-    </picture>
-  </a>
+  <a href="https://github.com/btq-ag/btq-core/pull/99"><img src="./assets/btq-dark.svg" width="49%" alt="btq-ag/btq-core #99"></a>
+  <img src="./assets/spacer.svg" width="49%" alt="">
 </p>
