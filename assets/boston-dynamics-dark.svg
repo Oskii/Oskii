@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 124" width="440" height="124" role="img" aria-label="Boston Dynamics, credited in an upcoming release">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 124" width="440" height="124" role="img" aria-label="Boston Dynamics, credited in Spot SDK 5.3">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0e14"/>
@@ -101,4 +101,5 @@
   <text x="26" y="101" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
     <tspan fill="#7d8590">boston-dynamics/</tspan><tspan fill="#f0f6fc" font-weight="600">spot-sdk</tspan>
   </text>
+  <text x="414" y="101" text-anchor="end" fill="#c297ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="600">v5.3</text>
 </svg>
