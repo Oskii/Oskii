@@ -1,4 +1,4 @@
-## Open Source Contributions
+## Open Source Highlights
 
 <p align="center">
   <a href="https://github.com/anthropics/buffa/pull/479"><img src="./assets/anthropic-dark.svg" width="49%" alt="anthropics/buffa #479"></a>
