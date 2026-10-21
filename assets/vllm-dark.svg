@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 124" width="440" height="124" role="img" aria-label="vllm-project/vllm #55618">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e14"/>
+      <stop offset="100%" stop-color="#111620"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="15%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#8957e5" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="topline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8957e5" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#a371f7" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="438" height="122" rx="12" fill="url(#bg)" stroke="#21262d" stroke-width="1.2"/>
+  <rect x="1" y="1" width="438" height="122" rx="12" fill="url(#glow)"/>
+  <line x1="24" y1="1.2" x2="416" y2="1.2" stroke="url(#topline)" stroke-width="1.2"/>
+
+  <!-- Brand Mark -->
+  <svg x="20" y="16" width="88" height="44" viewBox="0 0 384 192">
+  <path fill="#f0f6fc" d="m172.667 136.494h-58.875v-93.063h12.375v82.063h46.5v11zm71.25 0h-58.875v-93.063h12.375v82.063h46.5v11zm95.25 0h-12.375v-80.188l-25.875 54.563h-7.375l-25.688-54.563v80.188h-11.562v-93.063h16.875l24.812 51.813 24-51.813h17.188v93.063z"/>
+  <path fill="#fdb515" d="M58.465 81.843v55.307L30.811 81.843z"/>
+  <path fill="#30a2ff" d="m58.464 137.15h21.73l18.653-70.386-25.575 13.462z"/>
+</svg>
+
+  <!-- Merged Pill -->
+  <rect x="336" y="25" width="78" height="24" rx="12" fill="#271745" stroke="#553098" stroke-width="1"/>
+  <svg x="346" y="29" width="15" height="15" viewBox="0 0 16 16">
+    
+  <path fill="#a371f7" d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"/>
+
+  </svg>
+  <text x="366" y="41" fill="#d2a8ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Merged</text>
+
+  <!-- Divider -->
+  <line x1="26" y1="74" x2="414" y2="74" stroke="#191f28" stroke-width="1"/>
+
+  <!-- Repo & PRs -->
+  <text x="26" y="101" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
+    <tspan fill="#7d8590">vllm-project/</tspan><tspan fill="#f0f6fc" font-weight="600">vllm</tspan>
+  </text>
+  <text x="414" y="101" text-anchor="end" fill="#c297ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="600">#55618</text>
+</svg>

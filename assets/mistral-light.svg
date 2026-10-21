@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 124" width="440" height="124" role="img" aria-label="mistralai/mistral-common #308">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="15%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#8957e5" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="topline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8957e5" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#a371f7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="438" height="122" rx="12" fill="url(#bg)" stroke="#d0d7de" stroke-width="1.2"/>
+  <rect x="1" y="1" width="438" height="122" rx="12" fill="url(#glow)"/>
+  <line x1="24" y1="1.2" x2="416" y2="1.2" stroke="url(#topline)" stroke-width="1.2"/>
+
+  <!-- Brand Mark -->
+  
+      <svg x="26" y="24" width="32" height="27" viewBox="0 0 96 80"><rect x="0" y="0" width="16" height="16" fill="#0f172a"/><rect x="80" y="0" width="16" height="16" fill="#0f172a"/><rect x="0" y="16" width="16" height="16" fill="#0f172a"/><rect x="16" y="16" width="16" height="16" fill="#0f172a"/><rect x="64" y="16" width="16" height="16" fill="#0f172a"/><rect x="80" y="16" width="16" height="16" fill="#0f172a"/><rect x="0" y="32" width="16" height="16" fill="#0f172a"/><rect x="16" y="32" width="16" height="16" fill="#0f172a"/><rect x="32" y="32" width="16" height="16" fill="#0f172a"/><rect x="48" y="32" width="16" height="16" fill="#0f172a"/><rect x="64" y="32" width="16" height="16" fill="#0f172a"/><rect x="80" y="32" width="16" height="16" fill="#0f172a"/><rect x="0" y="48" width="16" height="16" fill="#0f172a"/><rect x="32" y="48" width="16" height="16" fill="#0f172a"/><rect x="48" y="48" width="16" height="16" fill="#0f172a"/><rect x="80" y="48" width="16" height="16" fill="#0f172a"/><rect x="0" y="64" width="16" height="16" fill="#0f172a"/><rect x="80" y="64" width="16" height="16" fill="#0f172a"/></svg>
+      <text x="68" y="44" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">MISTRAL AI</text>
+    
+
+  <!-- Merged Pill -->
+  <rect x="336" y="25" width="78" height="24" rx="12" fill="#fbefff" stroke="#d8b9ff" stroke-width="1"/>
+  <svg x="346" y="29" width="15" height="15" viewBox="0 0 16 16">
+    
+  <path fill="#8250df" d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"/>
+
+  </svg>
+  <text x="366" y="41" fill="#8250df" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Merged</text>
+
+  <!-- Divider -->
+  <line x1="26" y1="74" x2="414" y2="74" stroke="#eaeef2" stroke-width="1"/>
+
+  <!-- Repo & PRs -->
+  <text x="26" y="101" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
+    <tspan fill="#57606a">mistralai/</tspan><tspan fill="#0f172a" font-weight="600">mistral-common</tspan>
+  </text>
+  <text x="414" y="101" text-anchor="end" fill="#8250df" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="600">#308</text>
+</svg>
