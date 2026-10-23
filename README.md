@@ -17,6 +17,5 @@
   <a href="https://github.com/preferencemodel/karotte/pull/96"><img src="./assets/karotte-dark.svg" width="49%" alt="preferencemodel/karotte #96"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/btq-ag/btq-core/pull/99"><img src="./assets/btq-dark.svg" width="49%" alt="btq-ag/btq-core #99"></a>
   <img src="./assets/boston-dynamics-dark.svg" width="49%" alt="Boston Dynamics, Spot SDK v5.3">
 </p>
